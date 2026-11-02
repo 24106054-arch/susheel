@@ -1,0 +1,10 @@
+THEORY: USE OF GIT COMMANDS
+
+Git is a distributed version control system.
+
+Uses of Git:
+1. Track changes in files.
+2. Create and manage branches.
+3. Collaborate with developers.
+4. Maintain project history.
+5. Upload code to GitHub.
